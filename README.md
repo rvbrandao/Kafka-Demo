@@ -3,6 +3,9 @@
 ## Description
 This project is a demonstration of how to use Apache Kafka with Python. It includes examples of Kafka producers and consumers, as well as the necessary configuration to run Kafka locally.
 
+<img src="Kafka-Demo.png" alt="" width="800" />
+
+
 ## Installation
 1. Clone the repository:
     ```sh
